@@ -6,7 +6,7 @@ public class Principal {
         double saldo = 1000.00;
         int opcao = 0;
 
-        System.out.println("=== BEM-VINDO AO DEV-BANK ===");
+        System.out.println("=== BEM-VINDO AO GUI-BANK ===");
 
         while (opcao != 3) {
             System.out.println("\nSaldo atual: R$ " + saldo);
